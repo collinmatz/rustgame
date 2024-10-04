@@ -1,0 +1,2 @@
+# RustGame
+RustGame is a game engine built using Rust. The goal of RustGame is to allow developers to easily create games using built in engine components, while being flexible enough to support custom components. RustGame is also built to interface closely with Python in order to support the execution of Python scripts during the execution of a RustGame lifetime.
